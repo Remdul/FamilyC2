@@ -15,7 +15,7 @@ function App() {
           target="_blank"
           rel="noopener noreferrer"
         >
-       FUCK OFF
+       My wife is Absolutely Amazing!!!!!!!!!!!!!!!!!!!!!
         </a>
       </header>
     </div>
